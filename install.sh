@@ -1,5 +1,6 @@
-git clone "https://github.com/cryptopoo/hiveos_gddr6x_temps/archive/refs/tags/v1.2.0.tar.gz"
+git clone "https://github.com/RedBoardDev/hiveos-auto_update.git"
 cd hiveos-auto_update
+chmod 700 auto_update.sh
 
 mkdir log/
 
