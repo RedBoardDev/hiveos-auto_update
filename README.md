@@ -16,6 +16,5 @@ curl https://raw.githubusercontent.com/RedBoardDev/hiveos-auto_update/main/insta
 👤 **Thomas OTT**
 
 * Github: [@RedBoardDev](https://github.com/RedBoardDev)
-* LinkedIn: [@thomas--ott](https://linkedin.com/in/thomas--ott)
 
 Give a ⭐️ if this project helped you!
